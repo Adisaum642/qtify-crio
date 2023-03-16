@@ -1,0 +1,21 @@
+.hero{
+ background-color: var(--color-black);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 270px;
+  font-family: 'Poppins';
+}
+
+.para{
+font-weight: 600;
+  font-size: 36px;
+  line-height: 48px;
+  text-align: center;
+
+}
+
+
+
+

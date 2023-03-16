@@ -1,6 +1,9 @@
 import React from 'react'
 import styles from "../Searchbar/Search.module.css"
 import Searchicon from "../../assest/Searchicon.png"
+
+
+
 function Search() {
   return (<div className={styles.wrapper}>
 
