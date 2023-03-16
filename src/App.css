@@ -5,6 +5,13 @@
 
 }
 
+#app{
+  font-family: 'Poppins';
+  background-color:#121212;
+}
+  
+
+
 *,
 *::before,
 *::after {
